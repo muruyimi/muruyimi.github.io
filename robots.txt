@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://muruyimi.github.io/sitemap/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/xGw/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/yWn/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/QEg/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/qSM/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/vcN/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/npy/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/ejI/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/xoL/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/PDb/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/NjY/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/SDG/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/KGI/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/FSg/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/KcL/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/Yrm/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/lir/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/Cxm/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/jYO/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/Ntu/sitemap_index.muruyimi
+Sitemap: https://muruyimi.github.io/vaV/sitemap_index.muruyimi
